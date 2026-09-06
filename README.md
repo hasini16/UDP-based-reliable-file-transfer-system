@@ -1,4 +1,4 @@
-# UDP-Socket-Based-File-Encryption-System
+# UDP-Socket-Based-File-Transfer-System
 
 A socket-based client-server file transfer system implemented in C
 
